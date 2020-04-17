@@ -35,3 +35,22 @@ print(x)
 # pop
 g = [1, 2, 3, 4, 8, 9, 'a', 'r']
 print(g.pop(-3))
+
+# tuples
+myTuple1 = ("Ammar", "Anna")
+myTuple2 = (5,4,6,8,12,1,979)
+print(myTuple1)
+
+print(myTuple2[-1])
+string  = "Lubna"
+myList = [2,5]
+myTuple = ("El", "deres")
+
+print(string * 5)
+print(myList * 5)
+print(myTuple * 5)
+
+# set has no indexes, immutable data only
+mySet = {"Ammar", "Tonny", 15}
+print(mySet)
+print(mySet)

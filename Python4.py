@@ -33,16 +33,31 @@ B = [1, 2, [3, 'a'], [4, 'b']]
 print(B[3][1])
 print()
 
-d = [1]
+d = [1]     #declare list
 d.append([2, 3, 4, 5])  # add one element
 print(d)
 d.extend([6, 7, 8])  # add many elements
 print(d)
 
 cloned = d[:]  # creatte cloned list from a list d
-d[1] = "cloned"
-print(d)
-print(cloned)
+cloned[1] = "cloned"
+print("this is original list: ",  d)
+print("this is the cloned list: " , cloned)
 
 string = "   i am learning AI these days"
 print(string.split())
+print()
+
+# dictionary
+Dict={"A":1,"B":"2","C":[3,3,3],"D":(4,4,4),'E':5,'F':6}
+print(Dict["D"])
+Dict["M"]="Ammaro"
+del(Dict["E"])
+print(Dict)
+print(Dict.keys())
+print(Dict.values())
+"Ammaro"in Dict
+
+# set
+s_set = set(d)
+print(s_set)

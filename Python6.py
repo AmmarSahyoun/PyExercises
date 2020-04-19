@@ -42,3 +42,11 @@ e = [["one", 1], ["Two", 2], ["three", 3]]
 print(dict(e))
 f = {{1, "one"}, {2, "two"}}
 print(dict(f))  # ((( unhashable type: 'set')))
+
+fName = input("Enter your first name:")
+lName = input("Enter your last name:")
+fName = fName.strip().capitalize()
+lName = lName.strip().capitalize()
+email = input("Enter your email:")
+print(f"Hello {fName} {lName} and welcome")
+print("your Domain is:", email[email.index("@")+1:])

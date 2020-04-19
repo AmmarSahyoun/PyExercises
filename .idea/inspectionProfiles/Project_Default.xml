@@ -5,7 +5,6 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="str.Ljust" />
-          <option value="set.Defference" />
         </list>
       </option>
     </inspection_tool>

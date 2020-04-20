@@ -1,9 +1,11 @@
 age = input("Enter your age:")
 
+print("welcome to the bar" if int(age)> 18 else
+      "you can drink soft drinks only")
 if int(age) > 18:
     print("you can enter the Bar")
-elif age == 18:
-    print("Coca-Cola")
+elif int(age) == 18 :
+    print("Coca-Cola, juice")
 else:
     print("welcome to drink cola")
 print("out loop")

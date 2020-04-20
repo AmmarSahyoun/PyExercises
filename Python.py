@@ -34,3 +34,7 @@ if print(l.isalnum()) == False:
     print("not an alphabetical or numrical phrase ")
 else:
     print(" it contains numeric and alphabetical letters without spaces")
+print("=" * 20)
+
+for i in range(1,4):
+    print("elDeres")

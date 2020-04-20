@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce82822-3417-4b69-939e-41ca65a9b021" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python7.py" beforeDir="false" afterPath="$PROJECT_DIR$/python7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.python7">
+  <component name="RunManager" selected="Python.Python9">
     <configuration name="Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyStringMethods" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,27 +62,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyStringMethods" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyStringMethods" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +75,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyStringMethods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyStringMethods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,10 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Python9" />
+        <item itemvalue="Python.Python8" />
         <item itemvalue="Python.python7" />
         <item itemvalue="Python.Python" />
         <item itemvalue="Python.Python3" />
-        <item itemvalue="Python.Python2" />
       </list>
     </recent_temporary>
   </component>
@@ -148,22 +170,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="685" height="1265" key="GridCell.Tab.0.bottom" timestamp="1587392969806">
+    <state x="1512" y="341" key="#Plugins" timestamp="1587409427400">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="685" height="1265" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587392969806" />
-    <state width="685" height="1265" key="GridCell.Tab.0.center" timestamp="1587392969806">
+    <state x="1512" y="341" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1587409427400" />
+    <state width="664" height="1265" key="GridCell.Tab.0.bottom" timestamp="1587409188571">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="685" height="1265" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587392969806" />
-    <state width="685" height="1265" key="GridCell.Tab.0.left" timestamp="1587392969806">
+    <state width="664" height="1265" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587409188571" />
+    <state width="664" height="1265" key="GridCell.Tab.0.center" timestamp="1587409188571">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="685" height="1265" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587392969806" />
-    <state width="685" height="1265" key="GridCell.Tab.0.right" timestamp="1587392969806">
+    <state width="664" height="1265" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587409188571" />
+    <state width="664" height="1265" key="GridCell.Tab.0.left" timestamp="1587409188571">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="685" height="1265" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587392969806" />
+    <state width="664" height="1265" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587409188571" />
+    <state width="664" height="1265" key="GridCell.Tab.0.right" timestamp="1587409188571">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="664" height="1265" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587409188571" />
     <state width="1236" height="489" key="GridCell.Tab.1.bottom" timestamp="1587070854274">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

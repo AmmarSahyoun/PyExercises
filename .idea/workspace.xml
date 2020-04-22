@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce82822-3417-4b69-939e-41ca65a9b021" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +41,8 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.Python9">
-    <configuration name="Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Python11">
+    <configuration name="Python10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyStringMethods" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyStringMethods" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Python11" />
+        <item itemvalue="Python.Python10" />
         <item itemvalue="Python.Python9" />
         <item itemvalue="Python.Python8" />
         <item itemvalue="Python.python7" />
-        <item itemvalue="Python.Python" />
-        <item itemvalue="Python.Python3" />
       </list>
     </recent_temporary>
   </component>
@@ -174,22 +175,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1512" y="341" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1587409427400" />
-    <state width="664" height="1265" key="GridCell.Tab.0.bottom" timestamp="1587409188571">
+    <state width="695" height="1265" key="GridCell.Tab.0.bottom" timestamp="1587546138678">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="664" height="1265" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587409188571" />
-    <state width="664" height="1265" key="GridCell.Tab.0.center" timestamp="1587409188571">
+    <state width="695" height="1265" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587546138678" />
+    <state width="695" height="1265" key="GridCell.Tab.0.center" timestamp="1587546138677">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="664" height="1265" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587409188571" />
-    <state width="664" height="1265" key="GridCell.Tab.0.left" timestamp="1587409188571">
+    <state width="695" height="1265" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587546138677" />
+    <state width="695" height="1265" key="GridCell.Tab.0.left" timestamp="1587546138677">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="664" height="1265" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587409188571" />
-    <state width="664" height="1265" key="GridCell.Tab.0.right" timestamp="1587409188571">
+    <state width="695" height="1265" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587546138677" />
+    <state width="695" height="1265" key="GridCell.Tab.0.right" timestamp="1587546138677">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="664" height="1265" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587409188571" />
+    <state width="695" height="1265" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587546138677" />
     <state width="1236" height="489" key="GridCell.Tab.1.bottom" timestamp="1587070854274">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

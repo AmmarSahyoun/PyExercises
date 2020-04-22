@@ -19,4 +19,3 @@ for line in fh2:
     print(len(line.split(' ')))  # number of words in each line
     print("-------------------------\n")
 # if the fh file handler read the whole file it will not read again
-att

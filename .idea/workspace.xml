@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9ce82822-3417-4b69-939e-41ca65a9b021" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NBA_API.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +37,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="PyStringMethods/invalid/Python" />
+    </ignored-facets>
   </component>
   <component name="ProjectId" id="1aTnbNadZKwC66WdjKf3geMinPi" />
   <component name="ProjectLevelVcsManager">
@@ -38,29 +62,8 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Debug">
-    <configuration name="Debug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyStringMethods" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Ammar\AppData\Local\Programs\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Debug.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.NBA_API">
+    <configuration name="NBA_API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyStringMethods" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +75,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NBA_API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyStringMethods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,19 +169,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Debug" />
-      <item itemvalue="Python.Python9" />
-      <item itemvalue="Python.Python10" />
       <item itemvalue="Python.Python11" />
       <item itemvalue="Python.Python12" />
+      <item itemvalue="Python.Python" />
+      <item itemvalue="Python.Python9" />
+      <item itemvalue="Python.NBA_API" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Debug" />
+        <item itemvalue="Python.NBA_API" />
         <item itemvalue="Python.Python12" />
         <item itemvalue="Python.Python11" />
-        <item itemvalue="Python.Python10" />
         <item itemvalue="Python.Python9" />
+        <item itemvalue="Python.Python" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +198,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="1512" y="341" key="#Plugins" timestamp="1587409427400">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -187,22 +222,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="619" y="412" key="#xdebugger.evaluate/0.0.2560.1400@0.0.2560.1400" timestamp="1587648216448" />
-    <state width="1131" height="492" key="GridCell.Tab.0.bottom" timestamp="1587650601257">
+    <state width="1257" height="401" key="GridCell.Tab.0.bottom" timestamp="1587761724467">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1131" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587650601257" />
-    <state width="1131" height="492" key="GridCell.Tab.0.center" timestamp="1587650601257">
+    <state width="1257" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587761724467" />
+    <state width="1257" height="401" key="GridCell.Tab.0.center" timestamp="1587761724467">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1131" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587650601257" />
-    <state width="1131" height="492" key="GridCell.Tab.0.left" timestamp="1587650601257">
+    <state width="1257" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587761724467" />
+    <state width="1257" height="401" key="GridCell.Tab.0.left" timestamp="1587761724467">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1131" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587650601257" />
-    <state width="1131" height="492" key="GridCell.Tab.0.right" timestamp="1587650601257">
+    <state width="1257" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587761724467" />
+    <state width="1257" height="401" key="GridCell.Tab.0.right" timestamp="1587761724467">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1131" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587650601257" />
+    <state width="1257" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587761724467" />
     <state width="1131" height="492" key="GridCell.Tab.1.bottom" timestamp="1587650601258">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -219,9 +254,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1131" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587650601258" />
-    <state x="1408" y="275" key="SettingsEditor" timestamp="1587761249400">
+    <state x="1408" y="275" key="SettingsEditor" timestamp="1587761325884">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1408" y="275" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587761249400" />
+    <state x="1408" y="275" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587761325884" />
   </component>
 </project>

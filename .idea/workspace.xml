@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce82822-3417-4b69-939e-41ca65a9b021" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Debug.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +36,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.Debug">
     <configuration name="Debug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -47,9 +46,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Ammar\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Debug.py" />
@@ -145,6 +144,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Debug" />
+      <item itemvalue="Python.Python9" />
+      <item itemvalue="Python.Python10" />
+      <item itemvalue="Python.Python11" />
+      <item itemvalue="Python.Python12" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Debug" />
@@ -173,6 +179,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1512" y="341" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1587409427400" />
+    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587761229005">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587761229005" />
     <state x="619" y="412" key="#xdebugger.evaluate" timestamp="1587648216448">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -209,9 +219,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1131" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587650601258" />
-    <state x="1408" y="275" key="SettingsEditor" timestamp="1587649886218">
+    <state x="1408" y="275" key="SettingsEditor" timestamp="1587761249400">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1408" y="275" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587649886218" />
+    <state x="1408" y="275" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587761249400" />
   </component>
 </project>

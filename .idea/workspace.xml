@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ce82822-3417-4b69-939e-41ca65a9b021" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NBA_API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +66,10 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.NBA_API">
-    <configuration name="NBA_API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.while">
+    <configuration name="Lektion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyStringMethods" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NBA_API.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lektion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lektion2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyStringMethods" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lektion2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyStringMethods" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ranges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyStringMethods" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ranges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyStringMethods" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,19 +175,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Python11" />
-      <item itemvalue="Python.Python12" />
-      <item itemvalue="Python.Python" />
-      <item itemvalue="Python.Python9" />
-      <item itemvalue="Python.NBA_API" />
+      <item itemvalue="Python.Python2" />
+      <item itemvalue="Python.while" />
+      <item itemvalue="Python.Lektion" />
+      <item itemvalue="Python.Lektion2" />
+      <item itemvalue="Python.ranges" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.NBA_API" />
-        <item itemvalue="Python.Python12" />
-        <item itemvalue="Python.Python11" />
-        <item itemvalue="Python.Python9" />
-        <item itemvalue="Python.Python" />
+        <item itemvalue="Python.while" />
+        <item itemvalue="Python.ranges" />
+        <item itemvalue="Python.Lektion2" />
+        <item itemvalue="Python.Lektion" />
+        <item itemvalue="Python.Python2" />
       </list>
     </recent_temporary>
   </component>
@@ -208,8 +214,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="284" y="861" width="543" height="376" key="#Notifications" timestamp="1587901352438">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="284" y="861" width="543" height="376" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1587901352438" />
     <state x="1512" y="341" key="#Plugins" timestamp="1587409427400">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -218,45 +229,61 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587761229005" />
-    <state x="619" y="412" key="#xdebugger.evaluate" timestamp="1587648216448">
+    <state x="809" y="655" key="#xdebugger.evaluate" timestamp="1587992416775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="619" y="412" key="#xdebugger.evaluate/0.0.2560.1400@0.0.2560.1400" timestamp="1587648216448" />
-    <state width="1257" height="401" key="GridCell.Tab.0.bottom" timestamp="1587761724467">
+    <state x="809" y="655" key="#xdebugger.evaluate/0.0.2560.1400@0.0.2560.1400" timestamp="1587992416775" />
+    <state width="570" height="1272" key="GridCell.Tab.0.bottom" timestamp="1587996171648">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587761724467" />
-    <state width="1257" height="401" key="GridCell.Tab.0.center" timestamp="1587761724467">
+    <state width="570" height="1272" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587996171648" />
+    <state width="570" height="1272" key="GridCell.Tab.0.center" timestamp="1587996171648">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587761724467" />
-    <state width="1257" height="401" key="GridCell.Tab.0.left" timestamp="1587761724467">
+    <state width="570" height="1272" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587996171648" />
+    <state width="570" height="1272" key="GridCell.Tab.0.left" timestamp="1587996171648">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587761724467" />
-    <state width="1257" height="401" key="GridCell.Tab.0.right" timestamp="1587761724467">
+    <state width="570" height="1272" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587996171648" />
+    <state width="570" height="1272" key="GridCell.Tab.0.right" timestamp="1587996171648">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587761724467" />
-    <state width="1131" height="492" key="GridCell.Tab.1.bottom" timestamp="1587650601258">
+    <state width="570" height="1272" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587996171648" />
+    <state width="1235" height="411" key="GridCell.Tab.1.bottom" timestamp="1587995192788">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1131" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587650601258" />
-    <state width="1131" height="492" key="GridCell.Tab.1.center" timestamp="1587650601258">
+    <state width="1235" height="411" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587995192788" />
+    <state width="1235" height="411" key="GridCell.Tab.1.center" timestamp="1587995192788">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1131" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587650601258" />
-    <state width="1131" height="492" key="GridCell.Tab.1.left" timestamp="1587650601258">
+    <state width="1235" height="411" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587995192788" />
+    <state width="1235" height="411" key="GridCell.Tab.1.left" timestamp="1587995192788">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1131" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587650601258" />
-    <state width="1131" height="492" key="GridCell.Tab.1.right" timestamp="1587650601258">
+    <state width="1235" height="411" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587995192788" />
+    <state width="1235" height="411" key="GridCell.Tab.1.right" timestamp="1587995192788">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1131" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587650601258" />
-    <state x="1408" y="275" key="SettingsEditor" timestamp="1587761325884">
+    <state width="1235" height="411" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587995192788" />
+    <state x="426" y="385" key="SettingsEditor" timestamp="1587986628818">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1408" y="275" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587761325884" />
+    <state x="426" y="385" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587986628818" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lektion2.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ranges.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

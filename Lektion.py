@@ -24,32 +24,37 @@
 # else:
 #     print('False')
 
-# name = input('var vänlig ange ditt name')
-# if name:
-#     print('Hejsan, {}'.format(name))
-# else:
-#     print('välkomen du namelöse')
-#
-# print(len(name))
-
-import random
-highest_limit = 100
-answer = random.randint(1, highest_limit)
-print(answer) # REMOVE after testing
-
-print('var vänlig gissa ')
-guess = int(input())
-
-if guess == answer:
-    print('Du gissa rättttttt på första gång ')
+name = input('var vänlig ange ditt name')
+if name:
+    print('Hejsan, {}'.format(name))
 else:
-    if guess < answer:
-        print('var vänlig gissa högre')
-    else:
-        print('var vänlig gissa lägre')
-    guess = int(input())
-    if guess == answer:
-        print('Grattis, du är rätt')
-    else:
-        print('Tyvärr, du är fel')
-print(' Tack för att du spelade')
+    print('välkomen du namelöse')
+
+print(len(name))
+
+
+# parrot = 'Norwegian blue'
+# print(parrot[0:10:2])
+# print(parrot[0:8:3])
+#
+
+# list = ['dator', 'monitor', 'tangentbord', 'mus', 'musmatta']
+# print(list[-4:-1])   # from -4 till -1
+# print(list[0:5:2])  # jump 2 steps
+#
+# print('================')
+#
+# for i in range(1, 6):
+#     print('Talet {} i kvadrat är {} och i kub är det {:4}'.format(i, i ** 2, i ** 3))
+#     print('*' * 40)
+#
+# name = input('Hej vad heter du?:')
+# age = int(input('Hur gammal är du {}?'.format(name)))
+#
+# if age >= 20:
+#     print('Du får lov att handla på Systembolaget.')
+#     print('Skål!')
+# else:
+#     print('Tyvärr, du är inte gamal nog!')
+#     print('Kom tillbaka om {} år!'.format(20-age))
+# print('Ha en bra dag')

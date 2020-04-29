@@ -36,5 +36,5 @@ else:
     print(" it contains numeric and alphabetical letters without spaces")
 print("=" * 20)
 
-for i in range(1,4):
+for i in range(1, 4):
     print("elDeres")

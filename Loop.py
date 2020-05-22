@@ -42,3 +42,8 @@
 #     else:
 #         print('the number {} is Odd'.format(number))
 # print('+++ the loop is finished')
+
+
+# myRange = range(1, 100)  # create num from 1 to 1000
+# for number in myRange:
+#     print(number)

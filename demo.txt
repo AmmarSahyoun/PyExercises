@@ -2,7 +2,7 @@
 this is line No 1
  this is line No 2
  this is line No 3
- this is line No 4
+ that is line No 4
  this is line No 5
  this is line No 6
  this is line No 7
@@ -11,4 +11,5 @@ this is line No 1
  add text to the file by using append'a' 1
  add text to the file by using append'a' 2
  add text to the file by using append'a' 3
- 
+ Ammar
+SECOND LINEAmmar

@@ -50,3 +50,4 @@ print(b, '\n')
 print(np.dot(a, b), '\n')
 # we can use @ instead of np.dot command
 print(a @ b, '\n')
+print(f" ssssaj {a.dot(b)}")

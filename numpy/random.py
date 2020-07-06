@@ -34,3 +34,8 @@ print('----------------------------------' '\n')
 # last argument is the shape of resulting array
 
 print(np.random.normal(50, 15, (3, 4)))
+print('+++++++++++++++++++++++++++++')
+# we can creat array with negative array's value
+b = np.random.randn(3,2,4)
+print(b)
+print(b.shape)
